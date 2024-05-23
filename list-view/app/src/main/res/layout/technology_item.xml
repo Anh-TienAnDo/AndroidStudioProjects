@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TableRow>
+
+        <ImageView
+            android:id="@+id/imgId"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/tech_img_1" />
+
+        <LinearLayout
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/nameId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2232" />
+
+            <TextView
+                android:id="@+id/subId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2232" />
+
+            <TextView
+                android:id="@+id/descId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2232" />
+        </LinearLayout>
+
+    </TableRow>
+
+</TableLayout>

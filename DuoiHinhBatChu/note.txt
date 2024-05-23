@@ -1,0 +1,4 @@
+22/1 time1: tạo giao diện app
+
+toàn màn hình
+<item name="android:windowFullscreen">true</item>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TrackManagement</string>
+
+    <string-array name="album">
+        <item>Cho mot tinh yeu</item>
+        <item>Noi yeu be dai</item>
+        <item>Cay lang gio ngung</item>
+        <item>Co dung duoc khong</item>
+        <item>Day la mo</item>
+        <item>O giu cuoc doi</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>Country</item>
+        <item>Blues</item>
+        <item>Rock</item>
+        <item>Pop</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="country">
+        <item>Viet Nam</item>
+        <item>Lao</item>
+        <item>Campuchia</item>
+    </string-array>
+    <string-array name="operator">
+        <item>add</item>
+        <item>sub</item>
+        <item>mul</item>
+        <item>div</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/mFile"
+    android:title="File"
+    />
+
+    <item
+        android:id="@+id/mContact"
+        android:title="Contact"
+        >
+<menu>
+    <item
+        android:id="@+id/mEmail"
+        android:title="Email"
+        android:icon="@drawable/ic_launcher_background"
+        />
+
+    <item
+        android:id="@+id/mPhone"
+        android:title="Phone"
+        android:icon="@drawable/ic_launcher_background"
+        />
+</menu>
+
+    </item>
+</menu>

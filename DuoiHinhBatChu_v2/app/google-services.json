@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551540671887",
+    "project_id": "login-register-firebase-d8b80",
+    "storage_bucket": "login-register-firebase-d8b80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551540671887:android:ee146188bb20a59a5277fa",
+        "android_client_info": {
+          "package_name": "com.example.duoihinhbatchu_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArl4TOg5Gryf0Po6lO_oTlijsdO7lGJ4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
