@@ -1,1 +1,0 @@
-# ViewPager + TabLayout + RecycleView
